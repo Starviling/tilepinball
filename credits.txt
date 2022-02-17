@@ -1,2 +1,3 @@
 Audio clips selected by Elizabeth Copenhaver
 Music written by SirGrandPotato
+Designed and implemented by Stephen Wang and Gavin Shirey
